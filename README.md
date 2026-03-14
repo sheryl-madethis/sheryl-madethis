@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 👋 I'm a Senior Product Designer getting into vibe coding for the first time<br>
-🔭 See what I've worked in my [portfolio] (https://sherylpuentespina.framer.website/)<br>
+🔭 See what I've worked on in my [portfolio](https://sherylpuentespina.framer.website/)<br>
 💬 Let's connect and learn together!<br>
 
 
